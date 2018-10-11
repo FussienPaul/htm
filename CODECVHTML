@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html>
+	<Head>
+		<meta charset="utf-8">
+		<title>Curriculum Vitae</title>
+	</head>
+
+	<body>
+		<h1>CV Fussien paul</h1>
+		<p>  <a href="e-mail:paul.fussien@groupe-esigelec.org" target="_blank"><p id="email">paul.fussien@groupe-esigelec.org</p></a>
+         <p id="Téléphone">0659900160</p>
